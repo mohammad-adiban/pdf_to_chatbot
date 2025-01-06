@@ -479,7 +479,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
 # Set OpenAI API Key
-openai.api_key = "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"
+openai.api_key = "openai-key"
 print(f"Using OpenAI API Key: {openai.api_key[:5]}********")
 
 # Flask app setup
